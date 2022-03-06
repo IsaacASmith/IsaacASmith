@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @IsaacASmith
 - 👀 I’m interested in .NET, Vue, and most things web dev related.
+- 🌏 Check out my website at [isaacsmith.us](https://www.isaacsmith.us)
 
-<!---
-IsaacASmith/IsaacASmith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
