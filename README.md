@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @IsaacASmith
 - 👀 I’m interested in .NET, Vue, and most things web dev related.
-- 🌏 Check out my website at [isaacsmith.us](https://www.isaacsmith.us)
+- 🌏 Check out my website at [isaacsmith.us](https://www.isaacsmith.us?src=github&med=social)
 - ☀️ Building a resource for planning for the weather when traveling to new places at [traveling weather](https://travelingweather.com?src=github&med=social) in my free time.
